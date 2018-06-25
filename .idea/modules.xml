@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/app-atlas-mapillary-video/app-atlas-mapillary-video.iml" filepath="$USER_HOME$/app-atlas-mapillary-video/app-atlas-mapillary-video.iml" />
+      <module fileurl="file://$USER_HOME$/IdeaProjects/app-atlas-video/app-atlas-video.iml" filepath="$USER_HOME$/IdeaProjects/app-atlas-video/app-atlas-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-scope-repo/app-scope-repo.iml" filepath="$PROJECT_DIR$/.idea/modules/app-scope-repo/app-scope-repo.iml" group="app-scope-repo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-scope-repo/app-scope-repo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/app-scope-repo/app-scope-repo_main.iml" group="app-scope-repo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-scope-repo/app-scope-repo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/app-scope-repo/app-scope-repo_test.iml" group="app-scope-repo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-web-api/app-web-api.iml" filepath="$PROJECT_DIR$/.idea/modules/app-web-api/app-web-api.iml" group="app-web-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-web-api/app-web-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/app-web-api/app-web-api_main.iml" group="app-web-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-web-api/app-web-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/app-web-api/app-web-api_test.iml" group="app-web-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-web-ui/app-web-ui.iml" filepath="$PROJECT_DIR$/.idea/modules/app-web-ui/app-web-ui.iml" group="app-web-ui" />
+      <module fileurl="file://$PROJECT_DIR$/../demo/demo.iml" filepath="$PROJECT_DIR$/../demo/demo.iml" />
+      <module fileurl="file://$USER_HOME$/IdeaProjects/drive_injector/drive_injector.iml" filepath="$USER_HOME$/IdeaProjects/drive_injector/drive_injector.iml" />
+      <module fileurl="file://$USER_HOME$/IdeaProjects/fpm_workflow_services/fpm_workflow_services.iml" filepath="$USER_HOME$/IdeaProjects/fpm_workflow_services/fpm_workflow_services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/here.iml" filepath="$PROJECT_DIR$/.idea/modules/here.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/here_main.iml" filepath="$PROJECT_DIR$/.idea/modules/here_main.iml" group="here" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/here_test.iml" filepath="$PROJECT_DIR$/.idea/modules/here_test.iml" group="here" />
+      <module fileurl="file://$USER_HOME$/IdeaProjects/map_workflow_core/map_workflow_core.iml" filepath="$USER_HOME$/IdeaProjects/map_workflow_core/map_workflow_core.iml" />
+      <module fileurl="file://$USER_HOME$/IdeaProjects/map_workflow_rest/map_workflow_rest.iml" filepath="$USER_HOME$/IdeaProjects/map_workflow_rest/map_workflow_rest.iml" />
+      <module fileurl="file://$USER_HOME$/IdeaProjects/MapillaryFeatureConversionApp/mapillary.utility.iml" filepath="$USER_HOME$/IdeaProjects/MapillaryFeatureConversionApp/mapillary.utility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scope-web.iml" filepath="$PROJECT_DIR$/.idea/modules/scope-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scope-web_main.iml" filepath="$PROJECT_DIR$/.idea/modules/scope-web_main.iml" group="scope-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scope-web_test.iml" filepath="$PROJECT_DIR$/.idea/modules/scope-web_test.iml" group="scope-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/scope_layer_v2.iml" filepath="$PROJECT_DIR$/.idea/modules/scope_layer_v2.iml" />
+      <module fileurl="file://$USER_HOME$/IdeaProjects/task-services/task-services.iml" filepath="$USER_HOME$/IdeaProjects/task-services/task-services.iml" />
+    </modules>
+  </component>
+</project>

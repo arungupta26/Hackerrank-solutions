@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.here.workflow:map_workflow_core:02.47.00">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/here/workflow/map_workflow_core/02.47.00/map_workflow_core-02.47.00.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/here/workflow/map_workflow_core/02.47.00/map_workflow_core-02.47.00-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/here/workflow/map_workflow_core/02.47.00/map_workflow_core-02.47.00-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

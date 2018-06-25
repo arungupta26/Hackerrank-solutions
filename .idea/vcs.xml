@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$USER_HOME$/IdeaProjects/app-atlas-video" vcs="Git" />
+    <mapping directory="$USER_HOME$/IdeaProjects/drive_injector" vcs="Git" />
+    <mapping directory="$USER_HOME$/IdeaProjects/fpm_workflow_services" vcs="Git" />
+    <mapping directory="$USER_HOME$/IdeaProjects/map_workflow_core" vcs="Git" />
+    <mapping directory="$USER_HOME$/IdeaProjects/map_workflow_rest" vcs="Git" />
+    <mapping directory="$USER_HOME$/IdeaProjects/scope_layer_v2" vcs="Git" />
+    <mapping directory="$USER_HOME$/IdeaProjects/task-services" vcs="Git" />
+    <mapping directory="$USER_HOME$/IdeaProjects/workflow_scope_layer" vcs="Git" />
+    <mapping directory="$USER_HOME$/app-atlas-mapillary-video" vcs="Git" />
+  </component>
+</project>

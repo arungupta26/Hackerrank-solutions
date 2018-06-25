@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: pot-api:pot-schema:01.59">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/pot-api/pot-schema/01.59/pot-schema-01.59.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/pot-api/pot-schema/01.59/pot-schema-01.59-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/pot-api/pot-schema/01.59/pot-schema-01.59-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":app-web-api" external.linked.project.path="$USER_HOME$/IdeaProjects/scope_layer_v2/app-web-api" external.root.project.path="$USER_HOME$/IdeaProjects/scope_layer_v2" external.system.id="GRADLE" external.system.module.group="com.here.scopelayer" external.system.module.version="02.16.00" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$USER_HOME$/IdeaProjects/scope_layer_v2/app-web-api">
+      <excludeFolder url="file://$USER_HOME$/IdeaProjects/scope_layer_v2/app-web-api/.gradle" />
+      <excludeFolder url="file://$USER_HOME$/IdeaProjects/scope_layer_v2/app-web-api/build" />
+      <excludeFolder url="file://$USER_HOME$/IdeaProjects/scope_layer_v2/app-web-api/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

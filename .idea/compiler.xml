@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo" />
+        <module name="drive_injector" />
+        <module name="fpm_workflow_services" />
+        <module name="map_workflow_core" />
+        <module name="map_workflow_rest" />
+        <module name="mapillary.utility" />
+        <module name="task-services" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="app-scope-repo_main" target="1.8" />
+      <module name="app-scope-repo_test" target="1.8" />
+      <module name="app-web-api_main" target="1.8" />
+      <module name="app-web-api_test" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="drive_injector" target="1.8" />
+      <module name="fpm_workflow_services" target="1.8" />
+      <module name="here_main" target="1.8" />
+      <module name="here_test" target="1.8" />
+      <module name="map_workflow_core" target="1.8" />
+      <module name="map_workflow_rest" target="1.8" />
+      <module name="mapillary.utility" target="1.8" />
+      <module name="scope-web_main" target="1.8" />
+      <module name="scope-web_test" target="1.8" />
+      <module name="task-services" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

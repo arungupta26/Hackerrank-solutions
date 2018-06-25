@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.here.security.accesstoken:access-token-library:1.0.8">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/here/security/accesstoken/access-token-library/1.0.8/access-token-library-1.0.8.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/here/security/accesstoken/access-token-library/1.0.8/access-token-library-1.0.8-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/here/security/accesstoken/access-token-library/1.0.8/access-token-library-1.0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
